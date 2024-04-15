@@ -13,71 +13,92 @@ Hey there! Welcome to my Python learning journey. I'm diving into Python with th
 # Python Tutorial Glossary
 
 ### 1. Whetting Your Appetite
-   - Introduction to Python programming language and its features.
+
+- Introduction to Python programming language and its features.
 
 ### 2. Using the Python Interpreter
-   #### 2.1. Invoking the Interpreter
-   - Running the Python interpreter from the command line.
-   - Passing arguments to the interpreter.
-   - Using interactive mode for on-the-fly code execution.
-   
-   #### 2.2. The Interpreter and Its Environment
-   - Understanding source code encoding.
-   
+
+#### 2.1. Invoking the Interpreter
+
+- Running the Python interpreter from the command line.
+- Passing arguments to the interpreter.
+- Using interactive mode for on-the-fly code execution.
+
+#### 2.2. The Interpreter and Its Environment
+
+- Understanding source code encoding.
+
 ### 3. An Informal Introduction to Python
-   - Basic introduction to Python syntax and features.
-   #### 3.1. Using Python as a Calculator
-   - Performing mathematical operations.
-   - Working with text and strings.
-   - Introduction to lists.
-   
-   #### 3.2. First Steps Towards Programming
-   - Basics of writing and running Python programs.
+
+- Basic introduction to Python syntax and features.
+
+#### 3.1. Using Python as a Calculator
+
+- Performing mathematical operations.
+- Working with text and strings.
+- Introduction to lists.
+
+#### 3.2. First Steps Towards Programming
+
+- Basics of writing and running Python programs.
 
 ### 4. More Control Flow Tools
-   - Introduction to conditional statements and loops.
-   - Defining and using functions.
-   - Advanced function concepts like default arguments, keyword arguments, and lambda expressions.
-   
+
+- Introduction to conditional statements and loops.
+- Defining and using functions.
+- Advanced function concepts like default arguments, keyword arguments, and lambda expressions.
+
 ### 5. Data Structures
-   - Exploring built-in data structures like lists, tuples, sets, and dictionaries.
-   - Different looping techniques.
-   - Comparison of sequences and other types.
-   
+
+- Exploring built-in data structures like lists, tuples, sets, and dictionaries.
+- Different looping techniques.
+- Comparison of sequences and other types.
+
 ### 6. Modules
-   - Organizing code into reusable modules.
-   - Working with standard modules and packages.
-   
+
+- Organizing code into reusable modules.
+- Working with standard modules and packages.
+
 ### 7. Input and Output
-   - Formatting output using different methods.
-   - Reading and writing files.
-   
+
+- Formatting output using different methods.
+- Reading and writing files.
+
 ### 8. Errors and Exceptions
-   - Handling syntax errors and exceptions.
-   - Defining and raising exceptions.
-   
+
+- Handling syntax errors and exceptions.
+- Defining and raising exceptions.
+
 ### 9. Classes
-   - Introduction to object-oriented programming with classes and inheritance.
-   - Understanding scopes and namespaces.
-   
+
+- Introduction to object-oriented programming with classes and inheritance.
+- Understanding scopes and namespaces.
+
 ### 10. Brief Tour of the Standard Library
-   - Overview of commonly used modules in the Python Standard Library.
+
+- Overview of commonly used modules in the Python Standard Library.
 
 ### 11. Brief Tour of the Standard Library — Part II
-   - Further exploration of advanced modules and functionalities.
+
+- Further exploration of advanced modules and functionalities.
 
 ### 12. Virtual Environments and Packages
-   - Introduction to creating and managing virtual environments.
-   - Managing packages using pip.
-   
+
+- Introduction to creating and managing virtual environments.
+- Managing packages using pip.
+
 ### 13. What Now?
-   - Next steps after completing the tutorial.
+
+- Next steps after completing the tutorial.
 
 ### 14. Interactive Input Editing and History Substitution
-   - Features of the interactive interpreter for input editing and history substitution.
+
+- Features of the interactive interpreter for input editing and history substitution.
 
 ### 15. Floating Point Arithmetic: Issues and Limitations
-   - Understanding limitations and issues with floating-point arithmetic.
+
+- Understanding limitations and issues with floating-point arithmetic.
 
 ### 16. Appendix
-   - Additional information on interactive mode and error handling.
+
+- Additional information on interactive mode and error handling.
