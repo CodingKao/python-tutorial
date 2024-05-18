@@ -99,6 +99,3 @@ Hey there! Welcome to my Python learning journey. I'm diving into Python with th
 
 - Understanding limitations and issues with floating-point arithmetic.
 
-### 16. Appendix
-
-- Additional information on interactive mode and error handling.
