@@ -87,7 +87,7 @@ Hey there! Welcome to my Python learning journey. I'm diving into Python with th
 - Introduction to creating and managing virtual environments.
 - Managing packages using pip.
 
-### 13. What Now?
+### 13. What next? 
 
 - Next steps after completing the tutorial.
 
