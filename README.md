@@ -87,15 +87,4 @@ Hey there! Welcome to my Python learning journey. I'm diving into Python with th
 - Introduction to creating and managing virtual environments.
 - Managing packages using pip.
 
-### 13. What next? 
-
-- Next steps after completing the tutorial.
-
-### 14. Interactive Input Editing and History Substitution
-
-- Features of the interactive interpreter for input editing and history substitution.
-
-### 15. Floating Point Arithmetic: Issues and Limitations
-
-- Understanding limitations and issues with floating-point arithmetic.
 
