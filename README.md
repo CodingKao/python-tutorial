@@ -82,7 +82,6 @@ Hey there! Welcome to my Python learning journey. I'm diving into Python with th
 
 - Further exploration of advanced modules and functionalities.
 
-### Next
 
 ### 12. Virtual Environments and Packages
 
